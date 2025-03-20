@@ -9,3 +9,6 @@ num = int(input("Enter a number: "))
 result = factorial(num)
 print(f"The factorial of {num} is {result}")
 
+print("author of below code: Sanket")
+print("hello")
+
